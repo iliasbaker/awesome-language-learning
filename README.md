@@ -7,4 +7,5 @@
 ## Language-specific resources
 
 ### Romance languages
-* [Spanish](SPANISH.md)
+* [Spanish](langs/SPANISH.md)
+* [French](langs/FRENCH.md)
